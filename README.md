@@ -1,7 +1,7 @@
 # Lia Puigmitjà Ruiz
 ## Fecha: 12/09/2023
 --- 
-FUCKTHEPOLICE
+
 Als die Nazis die Kommunisten holten,  
 habe ich geschwiegen;  
 ich war ja kein Kommunist.  
