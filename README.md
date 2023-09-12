@@ -21,4 +21,4 @@ ich war ja kein Jude.
 Als sie mich holten,  
 gab es keinen mehr, der protestieren konnte.  
   
->Martin Niemöller
+>Martin Niemöller (1892-1984)
