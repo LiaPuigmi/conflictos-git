@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Jaimito Fernández
 ## Fecha: 22/22/2222
+=======
+# Lia Puigmitjà Ruiz
+## Fecha: 12/09/2023
+>>>>>>> e8073099decbf0d73fa3dbd2caef65d2f2922a91
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio excepturi, dolor ex blanditiis iste inventore, incidunt, possimus rem reprehenderit voluptas voluptates accusamus? Deleniti vero, culpa eaque dolore itaque minus inventore.
 Autem ducimus laudantium, eligendi accusamus officia nihil voluptas debitis iusto, non illo itaque numquam explicabo nostrum id magni labore porro fugiat quod. Commodi quisquam dignissimos illum at tempore sapiente corrupti!
 Earum vitae neque in optio ducimus animi consequatur perspiciatis laboriosam officia modi aperiam cupiditate numquam labore reprehenderit repellendus est mollitia, at tenetur cum? Ducimus architecto reiciendis necessitatibus vel, voluptatum dignissimos.
